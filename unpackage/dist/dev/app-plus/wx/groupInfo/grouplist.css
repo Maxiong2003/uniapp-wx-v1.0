@@ -1,0 +1,39 @@
+
+.bgColor[data-v-c2d015d1] {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: #ededed;
+	overflow: auto;
+}
+.wxgrouplist[data-v-c2d015d1]{
+	display: flex;flex-direction: column;
+}
+.wxgrouplist-item[data-v-c2d015d1]{
+	padding:0 0.875rem;
+	background-color: #fff;
+	display: flex;flex-direction: row;align-items: center;
+}
+.wxgrouplist-imgs[data-v-c2d015d1]{
+	width: 2.5rem;
+	height: 2.5rem;
+	border-radius: 0.375rem;
+	overflow: hidden;
+	display: flex;flex-direction: row;flex-wrap: wrap;
+	background-color: #DEDEDE;
+}
+.wxgrouplist-imgs uni-image[data-v-c2d015d1]{
+	margin: 0.0625rem;
+	width: 1.125rem;
+	height: 1.125rem;
+}
+.wxgrouplist-title[data-v-c2d015d1]{
+	flex: 1;
+	border-bottom: 1px #F4F4F4 solid;
+	font-size: 1rem;
+	color: #333;
+	line-height: 3.28125rem;
+	margin-left: 1.1875rem;
+}

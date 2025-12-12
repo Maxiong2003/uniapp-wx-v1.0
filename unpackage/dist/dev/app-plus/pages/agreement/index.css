@@ -1,0 +1,17 @@
+
+.agreement[data-v-dd75091a] {
+		display: flex;
+		flex-direction: column;
+		flex-wrap: wrap;
+		margin-top: 0.75rem;
+}
+.agreementc[data-v-dd75091a] {
+		background: #fff;
+		padding: 0.75rem;
+		width: 100%;
+		box-sizing: border-box;
+}
+.agreementc uni-image[data-v-dd75091a],
+	.agreementc img[data-v-dd75091a] {
+		max-width: 100%;
+}

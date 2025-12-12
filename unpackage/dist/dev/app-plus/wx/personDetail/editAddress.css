@@ -1,0 +1,58 @@
+
+.picker-region-uni-input[data-v-50a15899] {
+	height: 2.8125rem;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	background-color: #fff;
+}
+.picker-region-uni-input uni-text[data-v-50a15899] {
+	flex: 1;
+	font-size: 0.875rem;
+	padding:0 0.375rem;
+}
+.picker-region-placeholder[data-v-50a15899] {
+	width: 100%;
+}
+.picker-region-placeholder uni-text[data-v-50a15899]{
+	color: #666;
+}
+
+/* 水平间距 */
+/* 水平间距 */
+.bgColor[data-v-bf810051] {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #EDEDED;
+  overflow: auto;
+}
+.remarkForm[data-v-bf810051] {
+  display: flex;
+  flex-direction: column;
+}
+.remarkForm-item[data-v-bf810051] {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.75rem;
+}
+.remarkForm-textarea[data-v-bf810051] {
+  width: 100%;
+  line-height: 1.5rem;
+  min-height: 7.5rem;
+}
+.remarkForm-label[data-v-bf810051] {
+  font-size: 0.8125rem;
+  color: #5C5C5C;
+  margin-bottom: 0.46875rem;
+}
+.remarkForm-input[data-v-bf810051] {
+  border-radius: 0.375rem;
+  background-color: #F7F7F7;
+  height: 3.4375rem;
+  line-height: 3.4375rem;
+  padding: 0 1.0625rem;
+}

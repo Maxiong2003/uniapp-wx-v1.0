@@ -1,0 +1,25 @@
+/* 水平间距 */
+/* 水平间距 */
+.bgColor[data-v-19c59e7e] {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #EDEDED;
+  overflow: auto;
+}
+.search-friends-send-item[data-v-19c59e7e] {
+  padding: 0.75rem;
+  margin-bottom: 0.75rem;
+  background-color: #fff;
+}
+.search-friends-send-textarea[data-v-19c59e7e] {
+  width: 100%;
+  min-height: 1.5625rem;
+}
+.search-friends-send-title[data-v-19c59e7e] {
+  padding: 0.375rem 0.75rem;
+  color: #999;
+  font-size: 0.75rem;
+}
